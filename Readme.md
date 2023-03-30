@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Oleg Khasevich](https://up.htmlacademy.ru/adaptive/28/user/2288783).
-* Наставник: `Дмитрий Гуляев`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/prifile/dima).
 
 ---
 
